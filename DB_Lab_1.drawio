@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T18:12:40.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OGdZo28DEXUn32HjUtMT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T18:20:18.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EiO_LGdRdJzv7Vj0Jb20" version="22.0.8" type="github">
   <diagram name="Page-1" id="GPDJ5xunrmTlmQM7aKqc">
     <mxGraphModel dx="750" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,15 +491,6 @@
         <mxCell id="tZ-yufHmO-T_GeRNX846-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-34" target="tZ-yufHmO-T_GeRNX846-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZ-yufHmO-T_GeRNX846-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-34" target="W61LWBA0hqPOYTBXHAXU-86">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="655" y="548" />
-              <mxPoint x="620" y="548" />
-              <mxPoint x="620" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tZ-yufHmO-T_GeRNX846-34" value="парична награда" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="475" width="80" height="45" as="geometry" />
         </mxCell>
@@ -509,8 +500,8 @@
         <mxCell id="tZ-yufHmO-T_GeRNX846-37" value="износ" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tZ-yufHmO-T_GeRNX846-39" value="време/место" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="110" y="810" width="40" height="30" as="geometry" />
+        <mxCell id="tZ-yufHmO-T_GeRNX846-39" value="име на турнир" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="810" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZ-yufHmO-T_GeRNX846-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.193;entryY=0.718;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-39" target="tZ-yufHmO-T_GeRNX846-15">
           <mxGeometry relative="1" as="geometry" />
@@ -524,8 +515,17 @@
         <mxCell id="tZ-yufHmO-T_GeRNX846-45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-44" target="tZ-yufHmO-T_GeRNX846-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZ-yufHmO-T_GeRNX846-44" value="наградени гледачи" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="330" y="820" width="70" height="40" as="geometry" />
+        <mxCell id="tZ-yufHmO-T_GeRNX846-44" value="гледач ID" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tZ-yufHmO-T_GeRNX846-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-46" target="tZ-yufHmO-T_GeRNX846-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZ-yufHmO-T_GeRNX846-46" value="вид на турнир" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="675" y="540" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tZ-yufHmO-T_GeRNX846-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="tZ-yufHmO-T_GeRNX846-46" target="W61LWBA0hqPOYTBXHAXU-86">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
